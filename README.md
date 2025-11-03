@@ -1,4 +1,4 @@
-#NoSQL CRUD App – Balance Manager (MongoDB + MERN)
+# NoSQL CRUD App – Balance Manager (MongoDB + MERN)
 
 A simple Balance Management System built using **MongoDB, Express, React, and Node.js**.  
 It demonstrates **NoSQL advantages** — flexible schema, embedded docs, and aggregation queries.
@@ -59,4 +59,5 @@ npm start
 ATLAS_PWD=<your_mongo_pwd>
 ADMIN_PIN=1234
 HOME_PIN=5678
+
 
